@@ -1,0 +1,99 @@
+body{
+    
+    background-color: aqua;
+    width: 100px;
+    height: 100vh;
+    font-family: 'Times New Roman';
+}
+
+ .signup{
+    width: 400px;
+    height: 650px;
+    margin: auto;
+    background: grey;
+     border-radius: 3px; 
+} 
+
+.login{
+ 
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    background: grey;
+    border-radius: 3px;
+   
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    width: 350px;
+    margin-left: 20px;
+}
+
+form label{
+     /* display: flex;
+    margin-top: 1px;  */
+    font-size: 20px;
+} 
+
+form input{
+    width: 80%;
+    padding: 6px; 
+    border: none;
+    border: 1px solid red;
+    border-radius: 3px;
+    outline: none; 
+
+} 
+
+html,body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    width: 320px;
+    height: 40px;
+    margin-top: 20px;
+    border: none;
+    background-color: red;
+    color: tomato;
+    font-size: 20px;
+    cursor: pointer;
+   margin-top: 25px;
+}
+
+.btn:hover{
+    color: white;
+    background-color: green
+}
+
+h4{
+    margin-left: 20px;
+}
+
+.pp{
+    margin-left: 20px;
+}
+
+.text{
+   /* margin-bottom: 50px; */
+    width: 800px;
+    height: 400px;
+    background: grey;
+ 
+}
+
+.index{
+    width: 400px;
+    height: 650px;
+    margin: auto;
+    background: grey;
+     border-radius: 3px; 
+}
+
+
